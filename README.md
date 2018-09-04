@@ -25,5 +25,5 @@ previous lab has been included.
     making sure they all _still_ pass at the end!
 
 **Note:** If you do everything correctly, you won't have to change any
-of the code that constructs the `show` view, only the the route to
+of the code that constructs the `show` view, only the route to
 request the data.
